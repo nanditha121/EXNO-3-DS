@@ -36,7 +36,10 @@ We use this categorical data encoding technique when the features are nominal(do
      df=pd.read_csv("/content/Encoding Data.csv")
      df
     ```
-    ![image](https://github.com/nanditha121/EXNO-3-DS/assets/142209508/5a896efc-6d86-4e47-b69f-12dfd7c40638)
+   ![img1](https://github.com/nanditha121/EXNO-3-DS/assets/142209508/53871d84-caf3-4099-bec9-5f8f514437d9)
+
+  
+
 
 
 # RESULT:
