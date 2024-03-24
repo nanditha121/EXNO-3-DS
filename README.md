@@ -211,6 +211,7 @@ We use this categorical data encoding technique when the features are nominal(do
 
 
   # RESULT:
-       # INCLUDE YOUR RESULT HERE
+        Hence performing Feature Encoding and Transformation process is Successful.
+        
 
        
