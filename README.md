@@ -46,7 +46,7 @@ We use this categorical data encoding technique when the features are nominal(do
     e1.fit_transform(df[["ord_2"]])
     ```
 
-    ![img 2](https://github.com/nanditha121/EXNO-3-DS/assets/142209508/6f0fce59-7852-489d-a76f-db5988a45a3b)
+  ![img 2](https://github.com/nanditha121/EXNO-3-DS/assets/142209508/6f0fce59-7852-489d-a76f-db5988a45a3b)
 
 
 
@@ -55,7 +55,7 @@ We use this categorical data encoding technique when the features are nominal(do
     df
     ```
 
-    ![img 3](https://github.com/nanditha121/EXNO-3-DS/assets/142209508/84e9360b-9728-444d-bbe3-f7480e9633f6)
+  ![img 3](https://github.com/nanditha121/EXNO-3-DS/assets/142209508/84e9360b-9728-444d-bbe3-f7480e9633f6)
 
     ```
     df['bo2']=e1.fit_transform(df[["ord_2"]])
