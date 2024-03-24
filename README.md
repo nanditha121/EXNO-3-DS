@@ -36,7 +36,8 @@ We use this categorical data encoding technique when the features are nominal(do
      df=pd.read_csv("/content/Encoding Data.csv")
      df
     ```
-   ![img1](https://github.com/nanditha121/EXNO-3-DS/assets/142209508/53871d84-caf3-4099-bec9-5f8f514437d9)
+    ![img1](https://github.com/nanditha121/EXNO-3-DS/assets/142209508/eca0e23d-6ea3-4685-ad3e-3a3c688afce4)
+
 
     ```
     from sklearn.preprocessing import LabelEncoder,OrdinalEncoder
